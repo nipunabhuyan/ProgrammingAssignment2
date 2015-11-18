@@ -1,5 +1,5 @@
 ## This is to Create a cache marix object that can be used such that the next time the user 
-## attempts to calculate the matrix inverse, the previously saved value avoiding
+## attempts to calculate the matrix inverse, the previously saved value is returned avoiding
 ## repeated calculation.
 
 ## This function creates a special "matrix" object, which is really a list 
